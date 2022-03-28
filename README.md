@@ -13,7 +13,7 @@ $ sudo apt install awscli
 $ aws configure
 ```
 
-- Create a buket with a unique name
+- Create a bucket with a unique name
 ```bash
 $ aws mb s3://bucketname --region your-region
 ```
